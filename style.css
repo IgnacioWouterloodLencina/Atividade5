@@ -7,6 +7,14 @@
 padding: 0.1%;
 font-size: large;
 }
+#navbar2{
+ background-color: rgb(196, 196, 196);
+    color: rgb(0, 0, 0);
+   width: 1915px;
+   height: 40px;
+padding: 0.1%;
+font-size: large;
+}
 body{
 margin: 0px;
 
