@@ -19,7 +19,7 @@ font-size: large;
   display: flex;
   padding: 1px;
   align-items: center;
-  gap:5px;
+  gap:30px;
 
 }
 
@@ -38,11 +38,12 @@ width: 1915px;
     height: 35px;
 
 }
-table {
+.table {
   border-collapse: collapse;
-  border: 2px solid rgb(140 140 140);
+
   font-family: sans-serif;
   font-size: 0.8rem;
   letter-spacing: 1px;
- 
+ border: 2px solid black;
+  border-radius: 5px; 
 }
