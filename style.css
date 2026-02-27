@@ -15,6 +15,10 @@ font-size: large;
 padding: 0.1%;
 font-size: large;
 }
+#nvg{
+  display: flex;
+}
+
 body{
 margin: 0px;
 
