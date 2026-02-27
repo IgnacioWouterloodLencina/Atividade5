@@ -17,6 +17,7 @@ font-size: large;
 }
 #nvg{
   display: flex;
+  white-space: 100px;
 }
 
 body{
