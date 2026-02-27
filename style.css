@@ -46,4 +46,29 @@ width: 1915px;
   letter-spacing: 1px;
  border: 2px solid black;
   border-radius: 5px; 
+  width: 300px;
+  
+}
+table, th, td {
+
+  border: 1px solid black;
+}
+
+th, td {
+  
+  padding: 5px;
+  text-align: left;
+}
+
+#img2 {
+
+height: 10px;
+width: 300px;
+
+}
+
+.azul{
+
+  th { background-color: #4CAF50; color: white; }
+
 }
