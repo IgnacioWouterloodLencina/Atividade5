@@ -17,6 +17,10 @@ font-size: large;
 }
 #nvg{
   display: flex;
+  padding: 1px;
+  align-items: center;
+  gap:5px;
+
 }
 
 body{
